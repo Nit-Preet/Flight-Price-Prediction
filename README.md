@@ -1,6 +1,6 @@
 # Flight Price Prediction 
 
-## 📊 Overview
+##  Overview
 End-to-end ML regression project predicting Indian domestic airline ticket prices (INR).
 
 **Key Highlights:**
