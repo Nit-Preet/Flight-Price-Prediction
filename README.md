@@ -8,7 +8,7 @@ End-to-end ML regression project predicting Indian domestic airline ticket price
 - **Dataset**: ~300k real ticket listings, subsampled to 50k for training
 - **Features**: Airline, route, stops, travel class, duration, days until departure
 - **Insight**: Business class costs 5–7× Economy; prices spike closer to departure
-- **Models Tried**: Linear Regression, Ridge, Lasso, KNN, Decision Tree, Gradient Boosting, Random Forest
+- **Models Tried**: Linear Regression, Ridge, Lasso, KNN, Decision Tree, Gradient Boosting, Random Forest..
 
 Built with scikit-learn, pandas, Matplotlib, Seaborn. Ready to run!
 
